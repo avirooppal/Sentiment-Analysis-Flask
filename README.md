@@ -13,13 +13,16 @@ A simple Flask web application that performs sentiment analysis on text input us
 ```bash
 https://github.com/avirooppal/Sentiment-Analysis-Flask.git
 ```
-2. Install dependencies:
+2. Templates:
+   Put index.html and result.html under template folder
+   
+3. Install dependencies:
 ```bash
 pip install textblob
 pip install flask
 ```
-3. Run the Flask application:
+4. Run the Flask application:
 ```bash
 python app.py
 ```
-4. Visit http://127.0.0.1:5000/ in your web browser.
+5. Visit http://127.0.0.1:5000/ in your web browser.

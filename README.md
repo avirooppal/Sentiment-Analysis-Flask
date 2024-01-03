@@ -11,11 +11,12 @@ A simple Flask web application that performs sentiment analysis on text input us
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flask-sentiment-analysis.git
+https://github.com/avirooppal/Sentiment-Analysis-Flask.git
 ```
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install textblob
+pip install flask
 ```
 3. Run the Flask application:
 ```bash

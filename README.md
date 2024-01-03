@@ -13,12 +13,12 @@ A simple Flask web application that performs sentiment analysis on text input us
 ```bash
 git clone https://github.com/yourusername/flask-sentiment-analysis.git
 ```
-2.Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-3.Run the Flask application:
+3. Run the Flask application:
 ```bash
 python app.py
 ```
-4.Visit http://127.0.0.1:5000/ in your web browser.
+4. Visit http://127.0.0.1:5000/ in your web browser.
